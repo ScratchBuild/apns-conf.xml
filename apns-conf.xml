@@ -39,6 +39,7 @@
   <apn carrier="DMM mobile" mcc="440" mnc="10" apn="dmm.com" user="dmm@dmm.com" password="dmm" authtype="3" type="default,supl" />
   <apn carrier="DMM mobile" mcc="440" mnc="10" apn="vmobile.jp" user="dmm@dmm.com" password="dmm" authtype="3" type="default,supl" />
   <apn carrier="DTI" mcc="440" mnc="10" apn="dti.jp" user="dti" password="dti" authtype="3" type="default,supl" />
+  <apn carrier="ServersMan SIM LTE" mcc="440" mnc="10" apn="dream.jp" user="user@dream.jp" password="dti" authtype="3" type="default,supl" />
   <apn carrier="em.std" mcc="440" mnc="00" apn="em.std" user="em" password="em" type="default,supl" bearer="14"/>
   <apn carrier="fourgsmartphone" mcc="440" mnc="20" apn="fourgsmartphone" user="" password="" mmsc="http://mms/" mmsproxy="andmms.softbank.ne.jp" mmsport="8080" authtype="2" type="default,supl,mms" />
   <apn carrier="FREETEL" mcc="440" mnc="10" apn="freetel.link" user="freetel@freetel.link" password="freetel" authtype="3" type="default,supl" />
