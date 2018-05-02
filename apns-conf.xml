@@ -43,6 +43,8 @@
   <apn carrier="em.std" mcc="440" mnc="00" apn="em.std" user="em" password="em" type="default,supl" bearer="14"/>
   <apn carrier="fourgsmartphone" mcc="440" mnc="20" apn="fourgsmartphone" user="" password="" mmsc="http://mms/" mmsproxy="andmms.softbank.ne.jp" mmsport="8080" authtype="2" type="default,supl,mms" />
   <apn carrier="FREETEL" mcc="440" mnc="10" apn="freetel.link" user="freetel@freetel.link" password="freetel" authtype="3" type="default,supl" />
+  <apn carrier="H.I.S.モバイル(docomo)" mcc="440" mnc="10" apn="dm.jplat.net" user="his@his" password="his" authtype="3" type="default,supl" />
+  <apn carrier="H.I.S.モバイル(SoftBank)" mcc="440" mnc="10" apn="sb.mvno" user="his@his" password="his" authtype="3" type="default,supl" />
   <apn carrier="hi-ho" mcc="440" mnc="10" apn="vmobile.jp" user="lte@hi-ho" password="hi-ho" authtype="3" type="default,supl" />
   <apn carrier="IIJmio タイプA" mcc="440" mnc="50" apn="iijmio.jp" user="mio@iij" password="iij" authtype="3" type="default,supl,hipri" />
   <apn carrier="IIJmio タイプA" mcc="440" mnc="51" apn="iijmio.jp" user="mio@iij" password="iij" authtype="3" type="default,supl,hipri" />
