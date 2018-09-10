@@ -60,6 +60,7 @@
   <apn carrier="mineo A" mcc="440" mnc="50" apn="mineo.jp" user="mineo@k-opti.com" password="mineo" authtype="2" type="default,supl,hipri" />
   <apn carrier="mineo A" mcc="440" mnc="51" apn="mineo.jp" user="mineo@k-opti.com" password="mineo" authtype="2" type="default,supl,hipri" />
   <apn carrier="mineo D" mcc="440" mnc="10" apn="mineo-d.jp" user="mineo@k-opti.com" password="mineo" authtype="2" type="default,supl" />
+  <apn carrier="mineo S" mcc="440" mnc="10" apn="mineo-s.jp" user="mineo@k-opti.com" password="mineo" authtype="2" type="default,supl" />
   <apn carrier="mopera U Bizho" mcc="440" mnc="10" apn="mpr2.bizho.net" type="default,supl" />
   <apn carrier="mopera U FF" mcc="440" mnc="10" apn="open.mopera.net" type="default,supl" />
   <apn carrier="mopera U Flat" mcc="440" mnc="10" apn="mopera.flat.foma.ne.jp" type="default,supl" />
